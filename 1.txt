@@ -1,0 +1,9 @@
+练习：
+
+绝对路径 ： /home/dmtsai/mydata
+相对路径 ： ../dmtsai/mydata  (在wong下)
+
+
+作业 ： 1. tar命令整理第一阶段内容   压缩代码笔记，另存
+       2. 熟练今天的命令
+       3. markdown
